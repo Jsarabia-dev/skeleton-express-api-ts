@@ -1,3 +1,5 @@
 # WebServer + RestServer
 
-Recuerden que deben de ejecutar ```npm install``` para reconstruir los módulos de Node.
+Express server with typescript
+
+Run server with ```npm run dev``` .
